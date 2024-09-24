@@ -1,0 +1,2 @@
+# directZobEditor
+Editor foor DirectZob
